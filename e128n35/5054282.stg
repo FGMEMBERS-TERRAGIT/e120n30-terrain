@@ -1,0 +1,5 @@
+OBJECT_BASE 5054282.btg
+OBJECT RKPE.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml 128.694855 35.146057 -3.6 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml 128.696475 35.135804 -0.1 0.00
+OBJECT_SHARED Models/Airport/beacon.xml 128.696564 35.141075 2.5 0.00

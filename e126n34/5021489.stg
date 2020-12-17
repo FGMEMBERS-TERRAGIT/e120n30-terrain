@@ -1,0 +1,5 @@
+OBJECT_BASE 5021489.btg
+OBJECT RKJM.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml 126.372620 34.754459 0.1 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml 126.387122 34.763349 5.2 0.00
+OBJECT_SHARED Models/Airport/beacon.xml 126.379135 34.759626 0.6 0.00
